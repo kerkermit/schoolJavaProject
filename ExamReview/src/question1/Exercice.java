@@ -8,7 +8,6 @@ public class Exercice {
 	protected int niveauDeDifficulte;
 	protected String EnonceDeExe;
 	protected int typeExe;
-	protected String trye;
 	public static final int TYPE_EXERCICE_QCM = 1;
 	public static final int TYPE_EXERCICE_A_TROU = 2;
 	public static final int TYPE_EXERCICE_VRAI_OU_FAUX = 3;
